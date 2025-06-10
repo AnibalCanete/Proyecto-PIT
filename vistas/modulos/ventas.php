@@ -177,7 +177,3 @@ if($_SESSION["perfil"] == "Especial"){
   </section>
 
 </div>
-
-
-
-

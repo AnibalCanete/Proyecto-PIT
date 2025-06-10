@@ -39,6 +39,12 @@
         
         </div>
 
+        <div class="volver-inicio" style="text-align: center;">
+
+          <a href="index.php?ruta=inicio" class="btn" style="background-color: #337ab7; color: white;" >Volver al Inicio</a>
+
+        </div>
+
       </div>
 
       <?php

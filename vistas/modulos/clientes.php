@@ -442,5 +442,3 @@ MODAL EDITAR CLIENTE
   $eliminarCliente -> ctrEliminarCliente();
 
 ?>
-
-

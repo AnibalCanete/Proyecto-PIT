@@ -1,3 +1,4 @@
+
 <?php
 
 if($_SESSION["perfil"] == "Especial" || $_SESSION["perfil"] == "Vendedor"){
@@ -433,5 +434,3 @@ MODAL EDITAR USUARIO
   $borrarUsuario -> ctrBorrarUsuario();
 
 ?> 
-
-

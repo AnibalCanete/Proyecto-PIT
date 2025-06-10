@@ -276,5 +276,3 @@ MODAL EDITAR CATEGORÍA
   $borrarCategoria -> ctrBorrarCategoria();
 
 ?>
-
-

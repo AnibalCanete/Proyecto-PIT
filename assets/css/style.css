@@ -74,6 +74,22 @@ section.even hr {
 section hr {
     margin-bottom: 5rem;
 }
+.volver-inicio {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.volver-inicio .btn {
+  padding: 10px 20px;
+  background-color: #337ab7;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.volver-inicio .btn:hover {
+  background-color: #286090;
+}
 
 /* Cabecera */
 header {
@@ -84,6 +100,16 @@ header {
     background: url(../imagenes/Fondo-principal-header.jpg);
     background-position: center;
     background-size: cover;
+}
+.content-header {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 20px;
+  text-align: center;
+}
+
+.content-header h1,
+.content-header p {
+  color: black;
 }
 
 header img {
